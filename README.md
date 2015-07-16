@@ -10,6 +10,6 @@ Step 1:
 <pre><code>cd $GOPATH</code></pre>  
 Step 2:
 <pre><code>cd golang.org</code></pre>
-if your GOPATH doesn't have /golang.org, you need run `mkdir golang.org` first  
+if your GOPATH doesn't have /golang.org, you need run ``mkdir golang.org`` first  
 Step 3:
 <pre><code>git clone https://github.com/yufeizyf/golang.org.git</code></pre> 
